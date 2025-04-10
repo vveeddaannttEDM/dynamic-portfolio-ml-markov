@@ -39,7 +39,5 @@ The methodology is inspired by the paper:
   - Annual return, volatility
   - Sharpe Ratio
 
----
 
-## 📁 Project Structure
 
